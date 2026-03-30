@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+
+.env
+.env.local
+
+yolo11n.pt
+
+base_data/
+VMMRdb/
