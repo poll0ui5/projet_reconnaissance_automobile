@@ -1,0 +1,1 @@
+pip install bing-image-downloader
