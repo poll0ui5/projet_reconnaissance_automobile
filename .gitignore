@@ -11,3 +11,7 @@ VMMRdb/
 
 og_VMMRdb/
 og_VMMRdb_model/
+
+dataset_transform.py
+dataset_voitures/
+dataset_voitures_scrap/
